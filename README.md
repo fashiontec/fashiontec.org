@@ -1,2 +1,4 @@
-# fashiontec.org
+# Fashiontec.org
+p{ fontcolor="blue"
+}
 Fashiontec Website
